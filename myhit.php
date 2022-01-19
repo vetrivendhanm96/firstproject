@@ -14,7 +14,7 @@
         <h1>Sign In</h1>
         <form method="post">
             <p>
-                <label for="username">Username:</label>
+                <label for="username">user:</label>
                 <input type="text" name="username" id="username">
             </p>
             <p>
