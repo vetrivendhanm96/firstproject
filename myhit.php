@@ -17,7 +17,7 @@
                 <label for="username">user:</label>
                 <input type="text" name="username" id="username">
                 <label for="username">name:</label>
-                <input type="text" name="name" id="username">
+                <input type="text" name="name" id="name">
 
             </p>
             <p>
