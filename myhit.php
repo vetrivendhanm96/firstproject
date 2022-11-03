@@ -16,6 +16,9 @@
             <p>
                 <label for="username">user:</label>
                 <input type="text" name="username" id="username">
+                <label for="username">name:</label>
+                <input type="text" name="name" id="username">
+
             </p>
             <p>
                 <label for="password">Password:</label>
